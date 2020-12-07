@@ -51,6 +51,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
   # instalar as dependências
   $ yarn install
+  
+  # Iniciar fake server
+  $ yarn json-server server.json -p 3333
 
   # Iniciar o projeto
   $ yarn start
