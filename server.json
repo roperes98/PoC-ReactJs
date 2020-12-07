@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Moda Italiana",
+      "price": "28.90",
+      "description": "Massa italiana ao molho ao sugo coberto por queijo suíço ralado",
+      "available": true,
+      "id": 4
     }
   ]
 }
