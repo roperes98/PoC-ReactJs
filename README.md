@@ -27,7 +27,7 @@
 
 ## 🔖 Sobre
 
-O projeto GoRestaurant é um app de delivery de comida, onde foi praticado o conceito de CRUD (Create, Read, Update, Delete) para estudo.
+O projeto GoRestaurant é um site de delivery de comida, onde foi praticado o conceito de CRUD (Create, Read, Update, Delete) para estudo.
 
 ⠀⠀⠀⠀⠀⠀⠀⠀
 ## 🚀 Tecnologias utilizadas
