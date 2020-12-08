@@ -47,7 +47,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   $ git clone https://github.com/roperes98/PoC-ReactJs.git
 
   # Entrar no diretório
-  $ cd Poc-ReactNative
+  $ cd PoC-ReactJs
 
   # instalar as dependências
   $ yarn install
